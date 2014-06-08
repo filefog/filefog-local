@@ -56,10 +56,7 @@ new TestRunner({
 
     // Default connection config to use.
     config: {
-        client_key : '777041726477-a5o1tp6f3i9m1me3tj5vhpnrn1jge43c.apps.googleusercontent.com',
-        client_secret : 'mWURYHmMKZxr6aeR7DTjRu-q',
-        client_scope : "https://www.googleapis.com/auth/drive",
-        redirect_url : 'http://localhost/'
+        base_directory: '/tmp/'
     }
 
 
