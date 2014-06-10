@@ -53,7 +53,7 @@ new TestRunner({
 
     // Load the provider module.
     definition: Definition,
-
+    name: package.name,
     // Default connection config to use.
     config: {
         base_directory: '/tmp/'
